@@ -30,8 +30,11 @@ function submitClicked() {
 
     /*  window.open(`mailto:novrizqi96@gmail.com?subject=Let's Talk&
     body=Hello my name is ${inputName}, Let's Talk `) */
+ 
+}
 
-    
+function openContact() {
+    window.open("file:///C:/Users/KagamiyaMihn/Desktop/Dumbways/Day3/contact.html")
 }
     
 
