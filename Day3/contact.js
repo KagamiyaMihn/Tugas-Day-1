@@ -34,7 +34,7 @@ function submitClicked() {
 }
 
 function openContact() {
-    window.open("file:///C:/Users/KagamiyaMihn/Desktop/Dumbways/Day3/contact.html")
+    window.open("contact.html","_self")
 }
     
 
